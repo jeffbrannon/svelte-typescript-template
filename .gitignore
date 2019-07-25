@@ -1,0 +1,4 @@
+.idea
+node_modules
+__sapper__
+src/lib/
