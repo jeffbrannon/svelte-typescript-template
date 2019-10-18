@@ -1,2 +1,1 @@
-# labrynf
-Muse Collaboration
+# svelte typescript template

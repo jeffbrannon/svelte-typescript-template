@@ -1,6 +1,6 @@
 {
-  "name": "labrynf",
-  "description": "labrynf",
+  "name": "svelte-typescript-template",
+  "description": "svelte-typescript-template",
   "version": "0.0.1",
   "scripts": {
     "dev": "tsc && sapper dev",
